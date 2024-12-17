@@ -87,8 +87,8 @@ Contributions are welcome! If you'd like to contribute, please:
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: [harishradhakrishnan2304@gmail.com]
+- **GitHub**: [https://github.com/HarishRadhakrishnan23]
 
 ---
 
